@@ -2,11 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" />
 </p>
 
-<table>
-  <tr style="vertical-align: top;">
-    <td style="width: 200px;">
-      <!-- Bisa kamu isi dengan foto profil atau kosong -->
-    </td>
+--
     <td style="padding-left: 20px;">
       <h1>Hello 👋 I am Adifa Firmansyah</h1>
       <h3>Software Developer</h3>
@@ -20,8 +16,6 @@
       <p>📫 Reach me at <a href="mailto:muhammad.a.f.2210@gmail.com">muhammad.a.f.2210@gmail.com</a></p>
       <p>🌱 I'm currently learning Flutter, Swift, Arduino</p>
     </td>
-  </tr>
-</table>
 
 ---
 

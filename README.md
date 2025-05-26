@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" />
 </p>
 
-<table style="width: 100%; vertical-align: top;">
+<table style="width: 50%; vertical-align: top;">
   <tr>
-    <td style="width: 150px;">
+    <td style="width: 50px;">
       <img src="https://github.com/user-attachments/assets/425563b0-f70e-483a-8d36-b1c7b53707b4" style="border-radius: 100%; height: 100%; max-height: 200px;" />
     </td>
     <td style="padding-left: 20px; vertical-align: top;">

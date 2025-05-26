@@ -6,7 +6,7 @@
   <tr>
     <td>
       <!-- Replace the image URL with your actual profile picture -->
-      <img src="https://github.com/user-attachments/assets/425563b0-f70e-483a-8d36-b1c7b53707b4" width="150" style="border-radius: 50%;" />
+      <img src="https://github.com/user-attachments/assets/425563b0-f70e-483a-8d36-b1c7b53707b4" width="150" style="border-radius: 100%;" />
     </td>
     <td style="padding-left: 20px;">
       <h1>Hello 👋 I am Adifa Firmansyah</h1>

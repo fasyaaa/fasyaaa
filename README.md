@@ -2,11 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" />
 </p>
 
-<table style="width: 120%;">
+
   <tr style="vertical-align: top;">
     <td style="width: 200px;">
-      <img src="https://github.com/user-attachments/assets/425563b0-f70e-483a-8d36-b1c7b53707b4" width="150" style="border-radius: 100%;"
-        />
     </td>
     <td style="padding-left: 20px;">
       <h1>Hello 👋 I am Adifa Firmansyah</h1>
@@ -22,7 +20,6 @@
       <p>🌱 I'm currently learning Flutter, Swift, Arduino</p>
     </td>
   </tr>
-</table>
 
 <h2>🚀 Skills</h2>
 <p>

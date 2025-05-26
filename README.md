@@ -5,8 +5,7 @@
 <table style="width: 120%;">
   <tr style="vertical-align: top;">
     <td style="width: 200px;">
-      <img src="https://github.com/user-attachments/assets/425563b0-f70e-483a-8d36-b1c7b53707b4" 
-           style="border-radius: 100%; height: 300px; object-fit: cover;" />
+      <img src="https://github.com/user-attachments/assets/425563b0-f70e-483a-8d36-b1c7b53707b4" width="100" height="100">
     </td>
     <td style="padding-left: 20px;">
       <h1>Hello 👋 I am Adifa Firmansyah</h1>

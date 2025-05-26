@@ -6,7 +6,7 @@
   <tr>
     <td>
       <!-- Replace the image URL with your actual profile picture -->
-      <img src="![octocat-1748274563455](https://github.com/user-attachments/assets/de91a9a4-7bb3-4c55-8f53-d25619f6b837)" width="150" style="border-radius: 50%;" />
+      <img src="" width="150" style="border-radius: 50%;" />
     </td>
     <td style="padding-left: 20px;">
       <h1>Hello 👋 I am Adifa Firmansyah</h1>
@@ -15,7 +15,7 @@
         I'm a passionate software developer with solid experience in backend development using Express.js, Node.js, and Python. I specialize in building clean, scalable APIs and high-performance server-side systems. Eager to expand my skill set, I'm currently diving into Flutter and Swift to develop cross-platform mobile applications. I’m a fast learner who quickly adapts to new technologies and thrives on solving real-world problems through code. I'm excited to contribute to innovative teams and grow into a versatile full-stack or mobile-first developer.
       </p>
       <p>🌍 I'm from Jakarta, Indonesia</p>
-      <p>📫 Reach me at <a href="mailto:muhammad.a.f.2210@gmail.com">muhammad.a.f.2210@gmail.com</a></p>
+      <p>📫 Reach me at <a href="mail to:muhammad.a.f.2210@gmail.com">muhammad.a.f.2210@gmail.com</a></p>
       <p>🌱 I'm currently learning Flutter, Swift, Arduino</p>
     </td>
   </tr>
